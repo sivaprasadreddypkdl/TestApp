@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  TestApp
+//  testApp
 //
 //  Created by SJ51673 on 08/10/20.
 //
